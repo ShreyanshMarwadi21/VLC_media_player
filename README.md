@@ -47,10 +47,9 @@ Arrow Down → Decrease volume
 Arrow Right → Forward 5 seconds
 Arrow Left → Backward 5 seconds
 
-+ → Increase playback speed
-
++ → Increase playback speed  
 - → Decrease playback speed
-
+  
 ## Author
 
 Shreyansh Marwadi
