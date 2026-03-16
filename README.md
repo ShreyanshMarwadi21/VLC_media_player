@@ -1,19 +1,18 @@
 # VLC Media Player Clone 🎵
 
-A simple VLC Media Player Clone built using HTML, CSS, and JavaScript.
-This project replicates the basic behavior of a media player where users can load and control video playback directly in the browser.
+A browser-based VLC Media Player clone developed using **HTML5, CSS3, and JavaScript** that enables users to load, play, and control video playback directly in the browser. The project demonstrates core frontend development concepts including DOM manipulation, event handling, and media control using the HTML5 video API.
 
 ## Features
 
-* Open video files from the system
+* Open and play video files from the local system
 * Drag and drop video support
-* Play and pause video
-* Forward and backward controls
-* Playback speed control
+* Play and pause video playback
+* Forward and backward seek controls
+* Playback speed adjustment
 * Volume control
-* Fullscreen mode
-* Progress bar with time tracking
-* Keyboard shortcut support
+* Fullscreen viewing mode
+* Progress bar with real-time playback tracking
+* Keyboard shortcut support for quick controls
 
 ## Technologies Used
 
@@ -26,30 +25,31 @@ This project replicates the basic behavior of a media player where users can loa
 
 VLC Media Player Clone
 
-* index.html
-* style.css
-* reset.css
-* script.js
-* VLC.png
+* index.html — Main structure of the application
+* style.css — Styling and layout of the media player
+* reset.css — Browser default style reset
+* script.js — JavaScript logic for video playback and controls
+* VLC.png — Application logo
 
 ## How to Run the Project
 
-1. Download or clone this repository
-2. Open the project folder
-3. Open **index.html** in any browser
-4. Click **Open** to select a video file
+1. Clone or download this repository
+2. Navigate to the project folder
+3. Open **index.html** in any modern web browser
+4. Click **Open** to select and play a video file
 
 ## Keyboard Controls
 
-Space → Play / Pause
-Arrow Up → Increase volume
-Arrow Down → Decrease volume
-Arrow Right → Forward 5 seconds
-Arrow Left → Backward 5 seconds
+| Key         | Action                  |
+| ----------- | ----------------------- |
+| Space       | Play / Pause            |
+| Arrow Up    | Increase volume         |
+| Arrow Down  | Decrease volume         |
+| Arrow Right | Forward 5 seconds       |
+| Arrow Left  | Backward 5 seconds      |
+| `+`         | Increase playback speed |
+| `-`         | Decrease playback speed |
 
-+ → Increase playback speed  
-- → Decrease playback speed
-  
 ## Author
 
 Shreyansh Marwadi
